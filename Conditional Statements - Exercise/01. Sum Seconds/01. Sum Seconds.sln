@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Godzilla vs. Kong", "05
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. World Swimming Record", "06. World Swimming Record\06. World Swimming Record.csproj", "{F7E51B15-78D2-4A63-9CA2-7EA468086AF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Shopping", "07. Shopping\07. Shopping.csproj", "{64CE354A-511B-44C1-A4A9-AAB910F7D740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Shopping", "07. Shopping\07. Shopping.csproj", "{64CE354A-511B-44C1-A4A9-AAB910F7D740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Lunch Break", "08. Lunch Break\08. Lunch Break.csproj", "{659B0C7A-510D-4D63-8735-DB59A9FEDD63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{64CE354A-511B-44C1-A4A9-AAB910F7D740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CE354A-511B-44C1-A4A9-AAB910F7D740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CE354A-511B-44C1-A4A9-AAB910F7D740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659B0C7A-510D-4D63-8735-DB59A9FEDD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659B0C7A-510D-4D63-8735-DB59A9FEDD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659B0C7A-510D-4D63-8735-DB59A9FEDD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659B0C7A-510D-4D63-8735-DB59A9FEDD63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
