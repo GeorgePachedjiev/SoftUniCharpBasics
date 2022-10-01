@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Bonus Score", "02. Bonu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Time + 15 Minutes", "03. Time + 15 Minutes\03. Time + 15 Minutes.csproj", "{ADAF97F1-A246-4FAE-A47C-03AE42801435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Toy Shop", "04. Toy Shop\04. Toy Shop.csproj", "{BF3A722A-187F-4E08-A6B6-15346D1B4730}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Toy Shop", "04. Toy Shop\04. Toy Shop.csproj", "{BF3A722A-187F-4E08-A6B6-15346D1B4730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Godzilla vs. Kong", "05. Godzilla vs. Kong\05. Godzilla vs. Kong.csproj", "{BE430E97-3503-4F2A-8FE4-CD852F8E8977}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BF3A722A-187F-4E08-A6B6-15346D1B4730}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3A722A-187F-4E08-A6B6-15346D1B4730}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3A722A-187F-4E08-A6B6-15346D1B4730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE430E97-3503-4F2A-8FE4-CD852F8E8977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE430E97-3503-4F2A-8FE4-CD852F8E8977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE430E97-3503-4F2A-8FE4-CD852F8E8977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE430E97-3503-4F2A-8FE4-CD852F8E8977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
