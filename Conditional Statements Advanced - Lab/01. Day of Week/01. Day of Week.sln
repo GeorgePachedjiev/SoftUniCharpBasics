@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Small Shop", "05. Small
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Number in Range", "06. Number in Range\06. Number in Range.csproj", "{797D751D-68B3-448F-BC36-E56564843CBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Working Hours", "07.Working Hours\07.Working Hours.csproj", "{73EBD372-B9B5-41D6-920F-FD2C03F66DB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{797D751D-68B3-448F-BC36-E56564843CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{797D751D-68B3-448F-BC36-E56564843CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{797D751D-68B3-448F-BC36-E56564843CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EBD372-B9B5-41D6-920F-FD2C03F66DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EBD372-B9B5-41D6-920F-FD2C03F66DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EBD372-B9B5-41D6-920F-FD2C03F66DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EBD372-B9B5-41D6-920F-FD2C03F66DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

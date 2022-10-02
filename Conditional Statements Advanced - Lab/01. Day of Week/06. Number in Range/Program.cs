@@ -6,7 +6,15 @@ namespace _06._Number_in_Range
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num = int.Parse(Console.ReadLine());
+            if (num >= -100 && num <= 100 && num != 0)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
