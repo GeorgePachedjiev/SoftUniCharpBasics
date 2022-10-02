@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{E05B8814-5D88-4D4F-A690-E012D4557BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Day of Week", "01. Day of Week\01. Day of Week.csproj", "{E05B8814-5D88-4D4F-A690-E012D4557BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Weekend or Working Day", "02.Weekend or Working Day\02.Weekend or Working Day.csproj", "{BE32E8F0-3B56-463E-9876-8F5E1BFC3402}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Weekend or Working Day", "02.Weekend or Working Day\02.Weekend or Working Day.csproj", "{BE32E8F0-3B56-463E-9876-8F5E1BFC3402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Animal Type", "03. Animal Type\03. Animal Type.csproj", "{56CBB670-106D-4499-BF18-4540578C589A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Animal Type", "03. Animal Type\03. Animal Type.csproj", "{56CBB670-106D-4499-BF18-4540578C589A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Personal Titles", "04. Personal Titles\04. Personal Titles.csproj", "{56832D8A-167A-425C-9F00-22C676CA87D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Personal Titles", "04. Personal Titles\04. Personal Titles.csproj", "{56832D8A-167A-425C-9F00-22C676CA87D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Small Shop", "05. Small Shop\05. Small Shop.csproj", "{A652D89E-5AF0-4215-8F03-C45163E3AEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Small Shop", "05. Small Shop\05. Small Shop.csproj", "{A652D89E-5AF0-4215-8F03-C45163E3AEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Number in Range", "06. Number in Range\06. Number in Range.csproj", "{797D751D-68B3-448F-BC36-E56564843CBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A652D89E-5AF0-4215-8F03-C45163E3AEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A652D89E-5AF0-4215-8F03-C45163E3AEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A652D89E-5AF0-4215-8F03-C45163E3AEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797D751D-68B3-448F-BC36-E56564843CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797D751D-68B3-448F-BC36-E56564843CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797D751D-68B3-448F-BC36-E56564843CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797D751D-68B3-448F-BC36-E56564843CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
