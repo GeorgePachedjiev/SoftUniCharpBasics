@@ -6,7 +6,31 @@ namespace _04._Personal_Titles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double age = double.Parse(Console.ReadLine());
+            string pol = Console.ReadLine();
+            if (pol == "m")
+            {
+                if (age >= 16)
+                {
+                    Console.WriteLine("Mr.");
+                }
+                else
+                {
+                    Console.WriteLine("Master");
+                }
+
+            }
+            else
+            {
+                if (age >= 16)
+                {
+                    Console.WriteLine("Ms.");
+                }
+                else
+                {
+                    Console.WriteLine("Miss");
+                }
+            }
         }
     }
 }
