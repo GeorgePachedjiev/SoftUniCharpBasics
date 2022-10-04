@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fishing Boat", "04. Fis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Journey", "05. Journey\05. Journey.csproj", "{05DB5824-3F7A-463F-920C-FE8F946EE1F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Operations Between Numbers", "06. Operations Between Numbers\06. Operations Between Numbers.csproj", "{190934AF-4F57-4967-9D9C-9293CDD88F87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{05DB5824-3F7A-463F-920C-FE8F946EE1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05DB5824-3F7A-463F-920C-FE8F946EE1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05DB5824-3F7A-463F-920C-FE8F946EE1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190934AF-4F57-4967-9D9C-9293CDD88F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190934AF-4F57-4967-9D9C-9293CDD88F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190934AF-4F57-4967-9D9C-9293CDD88F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190934AF-4F57-4967-9D9C-9293CDD88F87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
