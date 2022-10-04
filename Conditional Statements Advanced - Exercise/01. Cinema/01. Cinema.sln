@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Operations Between Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Hotel Room", "07. Hotel Room\07. Hotel Room.csproj", "{CA4B6B6F-CF0D-4573-9EA5-31C246BC6D3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. On Time for the Exam", "08. On Time for the Exam\08. On Time for the Exam.csproj", "{E3320D57-E6A6-4A87-B764-A3A944D63B6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA4B6B6F-CF0D-4573-9EA5-31C246BC6D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA4B6B6F-CF0D-4573-9EA5-31C246BC6D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA4B6B6F-CF0D-4573-9EA5-31C246BC6D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3320D57-E6A6-4A87-B764-A3A944D63B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3320D57-E6A6-4A87-B764-A3A944D63B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3320D57-E6A6-4A87-B764-A3A944D63B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3320D57-E6A6-4A87-B764-A3A944D63B6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,37 +12,37 @@ namespace _07._Hotel_Room
             double apartmentPrice = 0;
             double studioPrice = 0;
 
-            if (Month == "May" || Month == "October")
+            if (month == "May" || month == "October")
             {
-                studioPrice = Nights * 50;
-                apartmentPrice = Nights * 65;
+                studioPrice = numberOfNights * 50;
+                apartmentPrice = numberOfNights * 65;
 
-                if (Nights > 7 && Nights <= 14)
+                if (numberOfNights > 7 && numberOfNights <= 14)
                 {
                     studioPrice = studioPrice - (studioPrice / 100 * 5);
                 }
-                else if (Nights > 14)
+                else if (numberOfNights > 14)
                 {
                     studioPrice = studioPrice - (studioPrice / 100 * 30);
                 }
             }
-            else if (Month == "June" || Month == "September")
+            else if (month == "June" || month == "September")
             {
-                studioPrice = Nights * 75.20;
-                apartmentPrice = Nights * 68.70;
+                studioPrice = numberOfNights * 75.20;
+                apartmentPrice = numberOfNights * 68.70;
 
-                if (Nights >= 15)
+                if (numberOfNights >= 15)
                 {
                     studioPrice = studioPrice - (studioPrice / 100 * 20);
                 }
             }
-            else if (Month == " July" || Month == "August")
+            else if (month == " July" || month == "August")
             {
-                studioPrice = Nights * 76;
-                apartmentPrice = Nights * 77;
+                studioPrice = numberOfNights * 76;
+                apartmentPrice = numberOfNights * 77;
             }
 
-            if (Nights >= 14)
+            if (numberOfNights >= 14)
             {
                 apartmentPrice = apartmentPrice - (apartmentPrice / 100 * 10);
             }
