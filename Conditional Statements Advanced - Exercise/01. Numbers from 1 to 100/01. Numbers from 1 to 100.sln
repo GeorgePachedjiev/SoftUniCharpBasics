@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Numbers N1", "02. Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Numbers 1__N with Step 3", "03. Numbers 1__N with Step 3\03. Numbers 1__N with Step 3.csproj", "{317DBC97-D52C-4CC6-9BA4-E9C6F9B45102}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Even Powers of 2", "04. Even Powers of 2\04. Even Powers of 2.csproj", "{3ED4BE1F-FA3E-48DB-AFBB-CAC5A7C20897}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{317DBC97-D52C-4CC6-9BA4-E9C6F9B45102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{317DBC97-D52C-4CC6-9BA4-E9C6F9B45102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{317DBC97-D52C-4CC6-9BA4-E9C6F9B45102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED4BE1F-FA3E-48DB-AFBB-CAC5A7C20897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED4BE1F-FA3E-48DB-AFBB-CAC5A7C20897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED4BE1F-FA3E-48DB-AFBB-CAC5A7C20897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED4BE1F-FA3E-48DB-AFBB-CAC5A7C20897}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
