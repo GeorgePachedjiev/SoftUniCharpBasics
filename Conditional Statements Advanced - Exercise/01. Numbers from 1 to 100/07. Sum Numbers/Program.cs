@@ -6,7 +6,15 @@ namespace _07._Sum_Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numberCount = int.Parse(Console.ReadLine());
+            double sum = 0;
+
+            for (int i = 0; i < numberCount; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+                sum += num;
+            }
+            Console.WriteLine(sum);
         }
     }
 }

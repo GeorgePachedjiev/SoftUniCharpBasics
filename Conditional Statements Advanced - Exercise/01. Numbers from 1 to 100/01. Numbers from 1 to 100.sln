@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vowels Sum", "06. Vowel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Numbers", "07. Sum Numbers\07. Sum Numbers.csproj", "{5FBDB05B-0A75-4848-BD42-58E4DB6972AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Number sequence", "08. Number sequence\08. Number sequence.csproj", "{AD98C42F-FEE4-4EDE-AC97-A74DD682EA2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5FBDB05B-0A75-4848-BD42-58E4DB6972AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FBDB05B-0A75-4848-BD42-58E4DB6972AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FBDB05B-0A75-4848-BD42-58E4DB6972AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD98C42F-FEE4-4EDE-AC97-A74DD682EA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD98C42F-FEE4-4EDE-AC97-A74DD682EA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD98C42F-FEE4-4EDE-AC97-A74DD682EA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD98C42F-FEE4-4EDE-AC97-A74DD682EA2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
