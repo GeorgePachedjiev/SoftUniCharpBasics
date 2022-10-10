@@ -12,7 +12,7 @@ namespace _08._Tennis_Ranklist
             double sumW = 0;
             double sumF = 0;
             double sumSf = 0;
-            int numW = 0;
+            double numW = 0;
 
             for (int i = 1; i <= numberOfTours; i++)
             {
